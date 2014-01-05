@@ -41,8 +41,9 @@ foreach my $package(@packages) {
     # We want to record the CS Name in the actual definition,
     # to avoid the aliasing confusion from using \let
     my $csname = $definition->getCSName;
-    if ($locator =~ /^from\s(\S+\.\S+)(\.ltxml)?\s/) {
+    if ($locator =~ /^from\s([^. ]+\.\S+)(\.ltxml)?\s/) {
       my $source = $1;
+      $source =~ s/\.ltxml$//;
       $dictionary{$source}->{$csname} = 1;
       if ($source ne $package) {
         # Record dependencies with at least one command sequence definition

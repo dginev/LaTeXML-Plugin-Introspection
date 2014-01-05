@@ -1,1592 +1,1457 @@
 {
    "inst_support.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "inst_support.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "charter.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "scalefnt.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "scalefnt.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "book.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "book.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amstex.sty" : [
-      "TeX.pool.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsfonts.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amstex.sty.ltxml",
-      "amstext.sty.ltxml",
-      "amsxtra.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "amsbsy.sty",
+      "amsfonts.sty",
+      "amsmath.sty",
+      "amsopn.sty",
+      "amstext.sty",
+      "amsxtra.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "multicol.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "multicol.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "gen-p-l.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "article.cls",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "iopart.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "iopart.cls.ltxml",
-      "iopart_support.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "article.cls",
+      "eTeX.pool",
+      "iopart_support.sty",
+      "pdfTeX.pool"
    ],
    "JHEP2.cls" : [
-      "JHEP.cls.ltxml",
-      "JHEP2.cls.ltxml",
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "floatflt.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "JHEP.cls",
+      "LaTeX.pool",
+      "TeX.pool",
+      "amsfonts.sty",
+      "amssymb.sty",
+      "article.cls",
+      "eTeX.pool",
+      "floatflt.sty",
+      "pdfTeX.pool"
    ],
    "setspace.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "setspace.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "pst-grad.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "color.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "slides.cls.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "color.sty",
+      "eTeX.pool",
+      "pdfTeX.pool",
+      "slides.cls"
    ],
    "revtex4_support.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "array.sty.ltxml",
-      "dcolumn.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "hyperref.sty.ltxml",
-      "longtable.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "revsymb.sty.ltxml",
-      "revtex4_support.sty.ltxml",
-      "url.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "array.sty",
+      "dcolumn.sty",
+      "eTeX.pool",
+      "hyperref.sty",
+      "longtable.sty",
+      "natbib.sty",
+      "pdfTeX.pool",
+      "revsymb.sty",
+      "url.sty"
    ],
    "keyval.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "keyval.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amsxtra.sty" : [
-      "TeX.pool.ltxml",
-      "amsxtra.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "concmath.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "fixltx2e.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "fixltx2e.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "elsart.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "ams_core.cls.ltxml",
-      "ams_support.sty.ltxml",
-      "amsart.cls.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsfonts.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amstext.sty.ltxml",
-      "amsthm.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "makeidx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "ams_core.cls",
+      "ams_support.sty",
+      "amsart.cls",
+      "amsbsy.sty",
+      "amsfonts.sty",
+      "amsmath.sty",
+      "amsopn.sty",
+      "amstext.sty",
+      "amsthm.sty",
+      "article.cls",
+      "eTeX.pool",
+      "makeidx.sty",
+      "pdfTeX.pool"
    ],
    "acronym.sty" : [
-      "TeX.pool.ltxml",
-      "acronym.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amsmath.sty" : [
-      "TeX.pool.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amstext.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "amsbsy.sty",
+      "amsopn.sty",
+      "amstext.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "elsart_support.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "multido.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "multido.sty",
+      "pdfTeX.pool"
    ],
    "revsymb.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "revsymb.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "t2c.fontmap" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "aa.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "aa.cls.ltxml",
-      "aa_support.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "inst_support.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "aa_support.sty",
+      "article.cls",
+      "eTeX.pool",
+      "inst_support.sty",
+      "pdfTeX.pool"
    ],
    "revtex.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "array.sty.ltxml",
-      "dcolumn.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "hyperref.sty.ltxml",
-      "longtable.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "revsymb.sty.ltxml",
-      "revtex.sty.ltxml",
-      "revtex3_support.sty.ltxml",
-      "revtex4_support.sty.ltxml",
-      "url.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "array.sty",
+      "dcolumn.sty",
+      "eTeX.pool",
+      "hyperref.sty",
+      "longtable.sty",
+      "natbib.sty",
+      "pdfTeX.pool",
+      "revsymb.sty",
+      "revtex3_support.sty",
+      "revtex4_support.sty",
+      "url.sty"
    ],
    "mn2e_support.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "mn2e_support.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "epigraph.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "doublespace.sty" : [
-      "TeX.pool.ltxml",
-      "doublespace.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "eulervm.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amstex.tex" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "footmisc.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "footmisc.sty",
+      "pdfTeX.pool"
    ],
    "helvet.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "ts1.fontmap" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "euler.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "ae.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "report.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "report.cls.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "bbold.sty" : [
-      "TeX.pool.ltxml",
-      "bbold.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "planetmath-specials.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "graphics.sty.ltxml",
-      "graphicx.sty.ltxml",
-      "html.sty.ltxml",
-      "hyperref.sty.ltxml",
-      "lxRDFa.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "planetmath-specials.sty.ltxml",
-      "url.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "graphics.sty",
+      "graphicx.sty",
+      "html.sty",
+      "hyperref.sty",
+      "lxRDFa.sty",
+      "pdfTeX.pool",
+      "url.sty"
    ],
    "yfonts.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "yfonts.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "fontenc.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "emulateapj.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "aas_support.sty.ltxml",
-      "aastex.cls.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "emulateapj.cls.ltxml",
-      "graphics.sty.ltxml",
-      "graphicx.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "url.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "aas_support.sty",
+      "aastex.cls",
+      "amsfonts.sty",
+      "amssymb.sty",
+      "article.cls",
+      "eTeX.pool",
+      "graphics.sty",
+      "graphicx.sty",
+      "natbib.sty",
+      "pdfTeX.pool",
+      "url.sty"
    ],
    "theorem.sty" : [
-      "TeX.pool.ltxml",
-      "amsthm.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "theorem.sty.ltxml"
+      "TeX.pool",
+      "amsthm.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "t1enc.def" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "t1enc.def.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "palatino.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "zbl.cls" : [
-      "JHEP.cls.ltxml",
-      "JHEP2.cls.ltxml",
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "floatflt.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "JHEP.cls",
+      "JHEP2.cls",
+      "LaTeX.pool",
+      "TeX.pool",
+      "amsfonts.sty",
+      "amssymb.sty",
+      "article.cls",
+      "eTeX.pool",
+      "floatflt.sty",
+      "pdfTeX.pool"
    ],
    "xypic.sty" : [
-      "JHEP.cls.ltxml",
-      "JHEP2.cls.ltxml",
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "floatflt.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "JHEP.cls",
+      "JHEP2.cls",
+      "LaTeX.pool",
+      "TeX.pool",
+      "amsfonts.sty",
+      "amssymb.sty",
+      "article.cls",
+      "eTeX.pool",
+      "floatflt.sty",
+      "pdfTeX.pool"
    ],
    "gen-j-l.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "ams_core.cls.ltxml",
-      "ams_support.sty.ltxml",
-      "amsart.cls.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsfonts.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amstext.sty.ltxml",
-      "amsthm.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "gen-j-l.cls.ltxml",
-      "makeidx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "ams_core.cls",
+      "ams_support.sty",
+      "amsart.cls",
+      "amsbsy.sty",
+      "amsfonts.sty",
+      "amsmath.sty",
+      "amsopn.sty",
+      "amstext.sty",
+      "amsthm.sty",
+      "article.cls",
+      "eTeX.pool",
+      "makeidx.sty",
+      "pdfTeX.pool"
    ],
    "wrapfig.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "wrapfig.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "mathpple.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "sv_support.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "inst_support.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "sv_support.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "inst_support.sty",
+      "natbib.sty",
+      "pdfTeX.pool"
    ],
    "floatflt.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "floatflt.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "mathptmx.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "mathptmx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "euscript.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "ifpdf.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "inputenc.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "inputenc.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "mathpazo.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "html.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "html.sty.ltxml",
-      "hyperref.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "url.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "hyperref.sty",
+      "pdfTeX.pool",
+      "url.sty"
    ],
    "iopams.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "upgreek.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool",
+      "upgreek.sty"
    ],
    "xspace.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "xspace.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "webgraphic.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "webgraphic.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "hyperref.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "hyperref.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "url.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool",
+      "url.sty"
    ],
    "texvc.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "iopart_support.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "iopart_support.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "utopia.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "luximono.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "applemac.def" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amsthm.sty" : [
-      "TeX.pool.ltxml",
-      "amsthm.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "newcent.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "here.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "verbatim.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "verbatim.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "acl2014.sty" : [
-      "TeX.pool.ltxml",
-      "acl2014.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "pstricks.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "report.cls.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool",
+      "report.cls"
    ],
    "xy.tex" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "pgfsys-latexml.def.ltxml",
-      "xy.tex.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool",
+      "pgfsys-latexml.def"
    ],
    "slides.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "color.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "slides.cls.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "color.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amsb.fontmap" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "makeidx.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "makeidx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amssymb.sty" : [
-      "TeX.pool.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "amsfonts.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "epstopdf.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "times.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "xcolor.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "ams_core.cls.ltxml",
-      "ams_support.sty.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsfonts.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amsproc.cls.ltxml",
-      "amstext.sty.ltxml",
-      "amsthm.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "makeidx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "ams_core.cls",
+      "ams_support.sty",
+      "amsbsy.sty",
+      "amsfonts.sty",
+      "amsmath.sty",
+      "amsopn.sty",
+      "amsproc.cls",
+      "amstext.sty",
+      "amsthm.sty",
+      "article.cls",
+      "eTeX.pool",
+      "makeidx.sty",
+      "pdfTeX.pool"
    ],
    "subfigure.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "subfigure.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "footmisc.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "footmisc.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "elsart.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "elsart.cls.ltxml",
-      "elsart_support.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "article.cls",
+      "eTeX.pool",
+      "elsart_support.sty",
+      "pdfTeX.pool"
    ],
    "pgf.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "color.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "graphics.sty.ltxml",
-      "graphicx.sty.ltxml",
-      "keyval.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "pgf.sty.ltxml",
-      "pgfkeys.code.tex.ltxml",
-      "pgfsys-latexml.def.ltxml",
-      "xcolor.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "color.sty",
+      "eTeX.pool",
+      "graphics.sty",
+      "graphicx.sty",
+      "keyval.sty",
+      "pdfTeX.pool",
+      "pgfkeys.code.tex",
+      "pgfsys-latexml.def",
+      "xcolor.sty"
    ],
    "bm.sty" : [
-      "TeX.pool.ltxml",
-      "bm.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "pifont.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "pifont.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "ams_core.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "ams_core.cls.ltxml",
-      "ams_support.sty.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsfonts.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amstext.sty.ltxml",
-      "amsthm.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "makeidx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "ams_support.sty",
+      "amsbsy.sty",
+      "amsfonts.sty",
+      "amsmath.sty",
+      "amsopn.sty",
+      "amstext.sty",
+      "amsthm.sty",
+      "article.cls",
+      "eTeX.pool",
+      "makeidx.sty",
+      "pdfTeX.pool"
    ],
    "beton.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "psfig.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "epsfig.sty.ltxml",
-      "graphics.sty.ltxml",
-      "graphicx.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "psfig.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "epsfig.sty",
+      "graphics.sty",
+      "graphicx.sty",
+      "pdfTeX.pool"
    ],
    "JHEP.cls" : [
-      "JHEP.cls.ltxml",
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "floatflt.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "amsfonts.sty",
+      "amssymb.sty",
+      "article.cls",
+      "eTeX.pool",
+      "floatflt.sty",
+      "pdfTeX.pool"
    ],
    "pst-node.sty" : [
-      "TeX.pool.ltxml",
-      "bbm.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "bbm.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "TeX.pool" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "a4wide.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "t1.fontmap" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "placeins.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "placeins.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "AmSTeX.pool" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "hhline.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "hhline.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "eufrak.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "eufrak.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "pmath.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "graphics.sty.ltxml",
-      "graphicx.sty.ltxml",
-      "html.sty.ltxml",
-      "hyperref.sty.ltxml",
-      "lxRDFa.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "planetmath-specials.sty.ltxml",
-      "pmath.sty.ltxml",
-      "url.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "graphics.sty",
+      "graphicx.sty",
+      "html.sty",
+      "hyperref.sty",
+      "lxRDFa.sty",
+      "pdfTeX.pool",
+      "planetmath-specials.sty",
+      "url.sty"
    ],
    "tabularx.sty" : [
-      "TeX.pool.ltxml",
-      "array.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "tabularx.sty.ltxml"
+      "TeX.pool",
+      "array.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "ly1.fontmap" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "fourier.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "epsfig.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "epsfig.sty.ltxml",
-      "graphics.sty.ltxml",
-      "graphicx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "graphics.sty",
+      "graphicx.sty",
+      "pdfTeX.pool"
    ],
    "floatfig.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "floatfig.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amsa.fontmap" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "ntheorem.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "amsthm.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "ntheorem.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "amsfonts.sty",
+      "amssymb.sty",
+      "amsthm.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "revtex4.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "array.sty.ltxml",
-      "article.cls.ltxml",
-      "dcolumn.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "hyperref.sty.ltxml",
-      "longtable.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "revsymb.sty.ltxml",
-      "revtex4.cls.ltxml",
-      "revtex4_support.sty.ltxml",
-      "url.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "array.sty",
+      "article.cls",
+      "dcolumn.sty",
+      "eTeX.pool",
+      "hyperref.sty",
+      "longtable.sty",
+      "natbib.sty",
+      "pdfTeX.pool",
+      "revsymb.sty",
+      "revtex4_support.sty",
+      "url.sty"
    ],
    "eTeX.pool" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "pdfTeX.pool"
    ],
    "graphicx.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "graphics.sty.ltxml",
-      "graphicx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "graphics.sty",
+      "pdfTeX.pool"
    ],
    "amscd.sty" : [
-      "TeX.pool.ltxml",
-      "amscd.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "bbm.sty" : [
-      "TeX.pool.ltxml",
-      "bbm.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "revtex3_support.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "array.sty.ltxml",
-      "dcolumn.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "hyperref.sty.ltxml",
-      "longtable.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "revsymb.sty.ltxml",
-      "revtex3_support.sty.ltxml",
-      "revtex4_support.sty.ltxml",
-      "url.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "array.sty",
+      "dcolumn.sty",
+      "eTeX.pool",
+      "hyperref.sty",
+      "longtable.sty",
+      "natbib.sty",
+      "pdfTeX.pool",
+      "revsymb.sty",
+      "revtex4_support.sty",
+      "url.sty"
    ],
    "aastex.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "aas_support.sty.ltxml",
-      "aastex.cls.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "graphics.sty.ltxml",
-      "graphicx.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "url.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "aas_support.sty",
+      "amsfonts.sty",
+      "amssymb.sty",
+      "article.cls",
+      "eTeX.pool",
+      "graphics.sty",
+      "graphicx.sty",
+      "natbib.sty",
+      "pdfTeX.pool",
+      "url.sty"
    ],
    "eucal.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "elsarticle.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "elsart_support.sty.ltxml",
-      "elsarticle.cls.ltxml",
-      "graphics.sty.ltxml",
-      "graphicx.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "pifont.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "article.cls",
+      "eTeX.pool",
+      "elsart_support.sty",
+      "graphics.sty",
+      "graphicx.sty",
+      "natbib.sty",
+      "pdfTeX.pool",
+      "pifont.sty"
    ],
    "amsbsy.sty" : [
-      "TeX.pool.ltxml",
-      "amsbsy.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "pspicture.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "report.cls.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool",
+      "report.cls"
    ],
    "multido.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "multido.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "german.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "article.cls",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "LaTeX.pool" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "preview.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "preview.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "bookman.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "cancel.sty" : [
-      "TeX.pool.ltxml",
-      "cancel.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "t2b.fontmap" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "lgr.fontmap" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "numprint.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "array.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "numprint.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "array.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "caption.sty" : [
-      "TeX.pool.ltxml",
-      "caption.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "aa_support.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "article.cls",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "beamer.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "beamer.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "graphics.sty.ltxml",
-      "graphicx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "article.cls",
+      "eTeX.pool",
+      "graphics.sty",
+      "graphicx.sty",
+      "pdfTeX.pool"
    ],
    "avant.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "upref.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "pdfTeX.pool" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool"
    ],
    "ccfonts.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "enumerate.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "enumerate.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "pgfsys-latexml.def" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "pgfsys-latexml.def.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "turing.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "turing.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "epsf.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "epsf.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "rsfs.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "latexsym.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "citesort.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "pxfonts.sty" : [
-      "TeX.pool.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "pxfonts.sty.ltxml",
-      "txfonts.sty.ltxml"
+      "TeX.pool",
+      "amsfonts.sty",
+      "amssymb.sty",
+      "eTeX.pool",
+      "pdfTeX.pool",
+      "txfonts.sty"
    ],
    "revtex4.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "array.sty.ltxml",
-      "dcolumn.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "hyperref.sty.ltxml",
-      "longtable.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "revsymb.sty.ltxml",
-      "revtex4.sty.ltxml",
-      "revtex4_support.sty.ltxml",
-      "url.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "array.sty",
+      "dcolumn.sty",
+      "eTeX.pool",
+      "hyperref.sty",
+      "longtable.sty",
+      "natbib.sty",
+      "pdfTeX.pool",
+      "revsymb.sty",
+      "revtex4_support.sty",
+      "url.sty"
    ],
    "txfonts.sty" : [
-      "TeX.pool.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "txfonts.sty.ltxml"
+      "TeX.pool",
+      "amsfonts.sty",
+      "amssymb.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "calc.sty" : [
-      "TeX.pool.ltxml",
-      "calc.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "cite.sty" : [
-      "TeX.pool.ltxml",
-      "cite.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amsbook.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "ams_support.sty.ltxml",
-      "amsbook.cls.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsfonts.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amstext.sty.ltxml",
-      "amsthm.sty.ltxml",
-      "book.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "makeidx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "ams_support.sty",
+      "amsbsy.sty",
+      "amsfonts.sty",
+      "amsmath.sty",
+      "amsopn.sty",
+      "amstext.sty",
+      "amsthm.sty",
+      "book.cls",
+      "eTeX.pool",
+      "makeidx.sty",
+      "pdfTeX.pool"
    ],
    "afterpage.sty" : [
-      "TeX.pool.ltxml",
-      "afterpage.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "url.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "url.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "supertabular.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "supertabular.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amsppt.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "epsf.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "epsf.sty",
+      "pdfTeX.pool"
    ],
    "mn.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "mn.cls.ltxml",
-      "mn2e_support.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "article.cls",
+      "eTeX.pool",
+      "mn2e_support.sty",
+      "pdfTeX.pool"
    ],
    "aas_support.sty" : [
-      "TeX.pool.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "amsfonts.sty",
+      "amssymb.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "a4.sty" : [
-      "TeX.pool.ltxml",
-      "a4.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "mathptm.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "mathptm.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "alltt.sty" : [
-      "TeX.pool.ltxml",
-      "alltt.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "latexml.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "latexml.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "colortbl.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "enumerate.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "enumerate.sty",
+      "pdfTeX.pool"
    ],
    "lxRDFa.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "lxRDFa.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "svmult.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "book.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "inst_support.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "sv_support.sty.ltxml",
-      "svmult.cls.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "book.cls",
+      "eTeX.pool",
+      "inst_support.sty",
+      "natbib.sty",
+      "pdfTeX.pool",
+      "sv_support.sty"
    ],
    "t2a.fontmap" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "array.sty" : [
-      "TeX.pool.ltxml",
-      "array.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "gen-m-l.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "ams_support.sty.ltxml",
-      "amsbook.cls.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsfonts.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amstext.sty.ltxml",
-      "amsthm.sty.ltxml",
-      "book.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "gen-m-l.cls.ltxml",
-      "makeidx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "ams_support.sty",
+      "amsbook.cls",
+      "amsbsy.sty",
+      "amsfonts.sty",
+      "amsmath.sty",
+      "amsopn.sty",
+      "amstext.sty",
+      "amsthm.sty",
+      "book.cls",
+      "eTeX.pool",
+      "makeidx.sty",
+      "pdfTeX.pool"
    ],
    "pgfkeys.code.tex" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "pgfkeys.code.tex.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "xy.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "pgfsys-latexml.def.ltxml",
-      "xy.tex.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool",
+      "pgfsys-latexml.def",
+      "xy.tex"
    ],
    "float.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "float.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "fleqn.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "ot4.fontmap" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "tikz.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "color.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "graphics.sty.ltxml",
-      "graphicx.sty.ltxml",
-      "keyval.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "pgf.sty.ltxml",
-      "pgfkeys.code.tex.ltxml",
-      "pgfsys-latexml.def.ltxml",
-      "tikz.sty.ltxml",
-      "xcolor.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "color.sty",
+      "eTeX.pool",
+      "graphics.sty",
+      "graphicx.sty",
+      "keyval.sty",
+      "pdfTeX.pool",
+      "pgf.sty",
+      "pgfkeys.code.tex",
+      "pgfsys-latexml.def",
+      "xcolor.sty"
    ],
    "color.sty" : [
-      "TeX.pool.ltxml",
-      "color.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "indentfirst.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "aasms.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "latexml.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "latexml.sty",
+      "pdfTeX.pool"
    ],
    "frenchb.ldf" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "eurosym.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "eurosym.sty",
+      "pdfTeX.pool"
    ],
    "textcomp.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "JHEP3.cls" : [
-      "JHEP.cls.ltxml",
-      "JHEP3.cls.ltxml",
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "amsfonts.sty.ltxml",
-      "amssymb.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "floatflt.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "JHEP.cls",
+      "LaTeX.pool",
+      "TeX.pool",
+      "amsfonts.sty",
+      "amssymb.sty",
+      "article.cls",
+      "eTeX.pool",
+      "floatflt.sty",
+      "pdfTeX.pool"
    ],
    "wiki.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "chancery.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amsproc.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "ams_core.cls.ltxml",
-      "ams_support.sty.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsfonts.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amsproc.cls.ltxml",
-      "amstext.sty.ltxml",
-      "amsthm.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "makeidx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "ams_core.cls",
+      "ams_support.sty",
+      "amsbsy.sty",
+      "amsfonts.sty",
+      "amsmath.sty",
+      "amsopn.sty",
+      "amstext.sty",
+      "amsthm.sty",
+      "article.cls",
+      "eTeX.pool",
+      "makeidx.sty",
+      "pdfTeX.pool"
    ],
    "hyperxmp.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "paralist.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "paralist.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "cmbright.sty" : [
-      "TeX.pool.ltxml",
-      "cmbright.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "babel.def" : [
-      "TeX.pool.ltxml",
-      "babel.def.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "lscape.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "lscape.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amsopn.sty" : [
-      "TeX.pool.ltxml",
-      "amsopn.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amsrefs.sty" : [
-      "BibTeX.pool.ltxml",
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "amsrefs.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "BibTeX.pool",
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "cp852.def" : [
-      "TeX.pool.ltxml",
-      "a4.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "a4.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "llncs.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "inst_support.sty.ltxml",
-      "llncs.cls.ltxml",
-      "multicol.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "article.cls",
+      "eTeX.pool",
+      "inst_support.sty",
+      "multicol.sty",
+      "pdfTeX.pool"
    ],
    "fontspec.sty" : [
-      "TeX.pool.ltxml",
-      "babel.def.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "babel.def",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "BibTeX.pool" : [
-      "BibTeX.pool.ltxml",
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "comment.sty" : [
-      "TeX.pool.ltxml",
-      "comment.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "eurosym.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "eurosym.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "listings.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "listings.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "tocbibind.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "revtex.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "array.sty.ltxml",
-      "article.cls.ltxml",
-      "dcolumn.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "hyperref.sty.ltxml",
-      "longtable.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "revsymb.sty.ltxml",
-      "revtex.cls.ltxml",
-      "revtex3_support.sty.ltxml",
-      "revtex4_support.sty.ltxml",
-      "url.sty.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "array.sty",
+      "article.cls",
+      "dcolumn.sty",
+      "eTeX.pool",
+      "hyperref.sty",
+      "longtable.sty",
+      "natbib.sty",
+      "pdfTeX.pool",
+      "revsymb.sty",
+      "revtex3_support.sty",
+      "revtex4_support.sty",
+      "url.sty"
    ],
    "xunicode.sty" : [
-      "TeX.pool.ltxml",
-      "amsthm.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "amsthm.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "article.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "babel.sty" : [
-      "TeX.pool.ltxml",
-      "babel.def.ltxml",
-      "babel.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "babel.def",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "fullpage.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "utf8.def" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "amsart.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "ams_core.cls.ltxml",
-      "ams_support.sty.ltxml",
-      "amsart.cls.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsfonts.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amstext.sty.ltxml",
-      "amsthm.sty.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "makeidx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "ams_core.cls",
+      "ams_support.sty",
+      "amsbsy.sty",
+      "amsfonts.sty",
+      "amsmath.sty",
+      "amsopn.sty",
+      "amstext.sty",
+      "amsthm.sty",
+      "article.cls",
+      "eTeX.pool",
+      "makeidx.sty",
+      "pdfTeX.pool"
    ],
    "emulateapj.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "graphics.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "graphics.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "mathrsfs.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "framed.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "framed.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "svjour.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "inst_support.sty.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml",
-      "sv_support.sty.ltxml",
-      "svjour.cls.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "article.cls",
+      "eTeX.pool",
+      "inst_support.sty",
+      "natbib.sty",
+      "pdfTeX.pool",
+      "sv_support.sty"
    ],
    "courier.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "upgreek.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml",
-      "upgreek.sty.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "longtable.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "longtable.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "mn2e.cls" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "article.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "mn2e.cls.ltxml",
-      "mn2e_support.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "article.cls",
+      "eTeX.pool",
+      "mn2e_support.sty",
+      "pdfTeX.pool"
    ],
    "ngerman.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "natbib.sty",
+      "pdfTeX.pool"
    ],
    "amsfonts.sty" : [
-      "TeX.pool.ltxml",
-      "amsfonts.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "exscale.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "aastex.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "ams_support.sty.ltxml",
-      "amsbook.cls.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsfonts.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amstext.sty.ltxml",
-      "amsthm.sty.ltxml",
-      "book.cls.ltxml",
-      "eTeX.pool.ltxml",
-      "makeidx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "ams_support.sty",
+      "amsbook.cls",
+      "amsbsy.sty",
+      "amsfonts.sty",
+      "amsmath.sty",
+      "amsopn.sty",
+      "amstext.sty",
+      "amsthm.sty",
+      "book.cls",
+      "eTeX.pool",
+      "makeidx.sty",
+      "pdfTeX.pool"
    ],
    "dcolumn.sty" : [
-      "TeX.pool.ltxml",
-      "array.sty.ltxml",
-      "dcolumn.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "array.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "natbib.sty" : [
-      "LaTeX.pool.ltxml",
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "natbib.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "LaTeX.pool",
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "ams_support.sty" : [
-      "TeX.pool.ltxml",
-      "ams_support.sty.ltxml",
-      "amsbsy.sty.ltxml",
-      "amsfonts.sty.ltxml",
-      "amsmath.sty.ltxml",
-      "amsopn.sty.ltxml",
-      "amstext.sty.ltxml",
-      "amsthm.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "makeidx.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "amsbsy.sty",
+      "amsfonts.sty",
+      "amsmath.sty",
+      "amsopn.sty",
+      "amstext.sty",
+      "amsthm.sty",
+      "eTeX.pool",
+      "makeidx.sty",
+      "pdfTeX.pool"
    ],
    "amstext.sty" : [
-      "TeX.pool.ltxml",
-      "amstext.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "cropmark.sty" : [
-      "TeX.pool.ltxml",
-      "cropmark.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "latin10.def" : [
-      "TeX.pool.ltxml",
-      "array.sty.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "array.sty",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "aaspp.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ],
    "multirow.sty" : [
-      "TeX.pool.ltxml",
-      "eTeX.pool.ltxml",
-      "multirow.sty.ltxml",
-      "pdfTeX.pool.ltxml"
+      "TeX.pool",
+      "eTeX.pool",
+      "pdfTeX.pool"
    ]
 }
