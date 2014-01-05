@@ -41,7 +41,7 @@ foreach my $package(@packages) {
     # We want to record the CS Name in the actual definition,
     # to avoid the aliasing confusion from using \let
     my $csname = $definition->getCSName;
-    if ($locator =~ /^from (\S+)\.ltxml/) {
+    if ($locator =~ /^from\s(\S+\.\S+)(\.ltxml)?\s/) {
       my $source = $1;
       $dictionary{$source}->{$csname} = 1;
       if ($source ne $package) {
@@ -51,14 +51,14 @@ foreach my $package(@packages) {
 
 # Refine the dictionary csnames into an array
 foreach my $key(keys %dictionary) {
-  $dictionary{$key} = [keys %{$dictionary{$key}}]; }
+  $dictionary{$key} = [sort keys %{$dictionary{$key}}]; }
 open my $fh, ">", "dictionary.json";
 print $fh $json->pretty(1)->encode(\%dictionary);
 close $fh;
 
 # Refine the dependencies into an array
 foreach my $key(keys %dependencies) {
-  $dependencies{$key} = [keys %{$dependencies{$key}}]; }
+  $dependencies{$key} = [sort keys %{$dependencies{$key}}]; }
 open $fh, ">", "dependencies.json";
 print $fh $json->pretty(1)->encode(\%dependencies);
 close $fh;
