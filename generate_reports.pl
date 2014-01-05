@@ -40,13 +40,15 @@ foreach my $package(@packages) {
     my $locator = $definition->{locator};
     if ($locator =~ /^from (\S+)\.ltxml/) {
       my $source = $1;
-      $dictionary{$source} = [] unless defined $dictionary{$source};
-      push @{$dictionary{$source}}, $csname;
+      $dictionary{$source}->{$csname} = 1;
       if ($source ne $package) {
         # Record dependencies with at least one command sequence definition
         $dependencies{$package}->{$source} = 1; }
     }}}
 
+# Refine the dictionary csnames into an array
+foreach my $key(keys %dictionary) {
+  $dictionary{$key} = [keys %{$dictionary{$key}}]; }
 open my $fh, ">", "dictionary.json";
 print $fh $json->pretty(1)->encode(\%dictionary);
 close $fh;
