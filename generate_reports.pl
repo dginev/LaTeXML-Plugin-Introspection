@@ -33,11 +33,14 @@ foreach my $package(@packages) {
   my $state = $converter->{latexml}->{state};
   my $meaning_table = $state->{table}->{meaning};
 
-  foreach my $csname(keys %$meaning_table) {
-    my $definition = $meaning_table->{$csname}->[0];
+  foreach my $key(keys %$meaning_table) {
+    my $definition = $meaning_table->{$key}->[0];
     my $type = reftype($definition);
     next unless $type && ($type eq 'HASH');
     my $locator = $definition->{locator};
+    # We want to record the CS Name in the actual definition,
+    # to avoid the aliasing confusion from using \let
+    my $csname = $definition->getCSName;
     if ($locator =~ /^from (\S+)\.ltxml/) {
       my $source = $1;
       $dictionary{$source}->{$csname} = 1;
