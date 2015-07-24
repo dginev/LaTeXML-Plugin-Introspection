@@ -2,7 +2,7 @@
 use strict;
 use warnings;
 
-use LaTeXML::Converter;
+use LaTeXML;
 use LaTeXML::Util::Config;
 use JSON::XS;
 my $json = JSON::XS->new;
@@ -28,11 +28,10 @@ foreach my $package(@packages) {
   my $config = LaTeXML::Util::Config->new();
   $config->set('preload',[$package]);
 
-  my $converter = LaTeXML::Converter->get_converter($config);
+  my $converter = LaTeXML->get_converter($config);
   $converter->prepare_session($config);
   my $state = $converter->{latexml}->{state};
-  my $meaning_table = $state->{table}->{meaning};
-
+  my $meaning_table = $state->{meaning};
   foreach my $key(keys %$meaning_table) {
     my $definition = $meaning_table->{$key}->[0];
     my $type = reftype($definition);
@@ -48,7 +47,8 @@ foreach my $package(@packages) {
       if ($source ne $package) {
         # Record dependencies with at least one command sequence definition
         $dependencies{$package}->{$source} = 1; }
-    }}}
+    }}
+    undef $converter; }
 
 # Refine the dictionary csnames into an array
 foreach my $key(keys %dictionary) {
